@@ -1,0 +1,6 @@
+spring:
+  rabbitmq:
+    host: 192.168.1.104
+#    virtual-host: 不配置默认访问 /  "".equals(virtualHost) ? "/" : virtualHost
+#    username: guest 默认为guest
+#    password: guest
